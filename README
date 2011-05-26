@@ -1,0 +1,14 @@
+		 JUtility
+
+Utilitário de validações com javascript e servlets.
+
+Validações:
+Date, E-mail, Phone, CPF, CNPJ.
+
+Recursos:
+Apache TomCat v7.0 - Servlets 3.0 - Maven 3.0.2 - jstl 1.2
+
+Créditos:
+Fabrício Raphael 
+fabricioraphael.b@gmail.com
+@_fabricior
